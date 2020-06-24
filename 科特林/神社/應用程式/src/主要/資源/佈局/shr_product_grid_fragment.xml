@@ -38,7 +38,7 @@
             app:title="@string/shr_app_name" />
     </com.google.android.material.appbar.AppBarLayout>
 
-    <androidx.core.widget.NestedScrollView
+    <androidx.core.widget.shr_product_grid_fragment.xmlNestedScrollView
         android:id="@+id/product_grid"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
